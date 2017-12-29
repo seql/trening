@@ -109,7 +109,7 @@ ALLE korte dager skal vere lystbetont og behagelig -- tøy og bøy, dans, boks.
 ## uke 1
 ~~~
 man tys ons tor fre lau sun
- 20  5   35  5   30  5   5
+ 20  6   35  6   30  6   6
 ~~~
 
 mandag 1-mins intervall i 15 min 
