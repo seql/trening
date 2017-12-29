@@ -5,7 +5,7 @@ ikkje alt du kan, men at du merker det er pittelitt hardare.  ALLE korte dager s
 vere lystbetont og behagelig -- tøy og bøy, dans, boks.  introduser litt squats, armhevinger.
 benytt disse ukene til å finne videoer og andre ideer for trening, prøv dei gjerne ut.
 
-## uke 0  
+## uke 0  (*)
 ~~~
 man tys ons tor fre lau sun
                  5   5   5
