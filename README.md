@@ -12,14 +12,14 @@ man tys ons tor fre lau sun
 ~~~
 ## uke 1
 ~~~
-man tys ons tor fre lau sun                     
- 5   5   10   5   5   5   5
+man tys ons tor fre lau sun       man tys ons tor fre lau sun                     
+ 5   5   10   5   5   5   5        10  5   10  5   10  5   5
 ~~~
  
 ## uke 3
 ~~~
-man tys ons tor fre lau sun
- 10  5  15   5   10   5   5
+man tys ons tor fre lau sun      man tys ons tor fre lau sun
+ 10  5  15   5   10   5   5       15  5  10   5   10   5   5
 ~~~
  
 tung pust oppnådd på lange dager
@@ -27,7 +27,7 @@ tung pust oppnådd på lange dager
 ## uke 4
 ~~~
 man tys ons tor fre lau sun
- 10  5  15   5   15   5   5                       
+ 15  5  15   5   10  5   5                       
 ~~~
  
 frå og med uke 4, skal lange økter vere harde nok til å svette
@@ -35,7 +35,7 @@ frå og med uke 4, skal lange økter vere harde nok til å svette
 ## uke 5
 ~~~
 man tys ons tor fre lau sun
- 10  5  20  5   15  5   5
+ 15  5  15  5   15  5   5
 ~~~
  
 man 1-mins intervall i 8 min 
@@ -43,7 +43,7 @@ man 1-mins intervall i 8 min
 ## uke 6
 ~~~
 man tys ons tor fre lau sun
- 10  5   20  5  20  5   5
+ 15  5   20  5  15  5   5
 ~~~
 
 man 1-mins intervall i 8 min 
